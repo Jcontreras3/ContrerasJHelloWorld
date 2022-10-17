@@ -1,6 +1,20 @@
 ﻿Console.Clear();
-Console.WriteLine("Welcome to Mini Challenge 1!");
-Console.WriteLine("Enter your name to get a response!");
-string name = Console.ReadLine();
-Console.WriteLine($"Hello {name} how are you");
+string playAgain = "yes";
+while (playAgain == "yes")
+{
+    Console.WriteLine("Welcome to Mini Challenge 1!");
+    Console.WriteLine("Enter your name to get a response!");
+    string name = Console.ReadLine();
+    while(string.IsNullOrEmpty(name))
+    {
+        Console.WriteLine("You didn't Enter anything please type in a name");
+        name = Console.ReadLine();
+    }
+    Console.WriteLine($"Hello {name} how are you");
+
+    Console.Write("Would you like to try again? Type in Yes to retry or No to quit ");
+    playAgain = Console.ReadLine().ToLower();
+    Console.WriteLine("Thanks for playing ");
+
+}
 
