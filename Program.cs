@@ -1,4 +1,7 @@
-﻿Console.Clear();
+﻿//Jovann Contreras
+//Date 10/17/2022
+//Redid mini challenge 1 saying hello with data validation
+Console.Clear();
 string playAgain = "yes";
 while (playAgain == "yes")
 {
