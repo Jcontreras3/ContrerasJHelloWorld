@@ -1,0 +1,15 @@
+C:\Users\Jovan\GitHub\JContrerasHelloWorld\bin\Debug\net6.0\JContrerasHelloWorld.exe
+C:\Users\Jovan\GitHub\JContrerasHelloWorld\bin\Debug\net6.0\JContrerasHelloWorld.deps.json
+C:\Users\Jovan\GitHub\JContrerasHelloWorld\bin\Debug\net6.0\JContrerasHelloWorld.runtimeconfig.json
+C:\Users\Jovan\GitHub\JContrerasHelloWorld\bin\Debug\net6.0\JContrerasHelloWorld.dll
+C:\Users\Jovan\GitHub\JContrerasHelloWorld\bin\Debug\net6.0\ref\JContrerasHelloWorld.dll
+C:\Users\Jovan\GitHub\JContrerasHelloWorld\bin\Debug\net6.0\JContrerasHelloWorld.pdb
+C:\Users\Jovan\GitHub\JContrerasHelloWorld\obj\Debug\net6.0\JContrerasHelloWorld.csproj.AssemblyReference.cache
+C:\Users\Jovan\GitHub\JContrerasHelloWorld\obj\Debug\net6.0\JContrerasHelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jovan\GitHub\JContrerasHelloWorld\obj\Debug\net6.0\JContrerasHelloWorld.AssemblyInfoInputs.cache
+C:\Users\Jovan\GitHub\JContrerasHelloWorld\obj\Debug\net6.0\JContrerasHelloWorld.AssemblyInfo.cs
+C:\Users\Jovan\GitHub\JContrerasHelloWorld\obj\Debug\net6.0\JContrerasHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Jovan\GitHub\JContrerasHelloWorld\obj\Debug\net6.0\JContrerasHelloWorld.dll
+C:\Users\Jovan\GitHub\JContrerasHelloWorld\obj\Debug\net6.0\ref\JContrerasHelloWorld.dll
+C:\Users\Jovan\GitHub\JContrerasHelloWorld\obj\Debug\net6.0\JContrerasHelloWorld.pdb
+C:\Users\Jovan\GitHub\JContrerasHelloWorld\obj\Debug\net6.0\JContrerasHelloWorld.genruntimeconfig.cache
