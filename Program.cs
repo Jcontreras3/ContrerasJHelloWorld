@@ -16,17 +16,17 @@ while (playAgain == "yes")
     Console.WriteLine($"Hello {name} how are you");
 
     Console.Write("Would you like to try again? Type in Yes to retry or No to quit ");
-    
+
     string retryInput = "";
 
-    while(retryInput != "yes" || retryInput != "no")
+    while (retryInput != "yes" || retryInput != "no")
     {
         retryInput = Console.ReadLine().ToLower();
-        if(retryInput == playAgain)
+        if (retryInput == playAgain)
         {
             break;
         }
-        else if(retryInput == "no")
+        else if (retryInput == "no")
         {
             Console.WriteLine("Thanks for playing!");
             playAgain = retryInput;
