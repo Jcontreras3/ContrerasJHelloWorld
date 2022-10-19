@@ -7,13 +7,26 @@ while (playAgain == "yes")
 {
     Console.WriteLine("Welcome to Mini Challenge 1!");
     Console.WriteLine("Enter your name to get a response!");
+
+    bool isWord = true;
     string name = Console.ReadLine();
-    while (string.IsNullOrEmpty(name))
+    while (isWord)
     {
-        Console.WriteLine("You didn't Enter anything please type in a name");
-        name = Console.ReadLine();
+        bool str = name.All(Char.IsLetter);
+        if (!str)
+        {
+            Console.WriteLine("Please enter in your name no numbers");
+            isWord = true;
+        }
+        else
+        {
+            Console.WriteLine($"Hello {name} how are you");
+            break;
+        }
     }
-    Console.WriteLine($"Hello {name} how are you");
+
+
+
 
     Console.Write("Would you like to try again? Type in Yes to retry or No to quit ");
 
