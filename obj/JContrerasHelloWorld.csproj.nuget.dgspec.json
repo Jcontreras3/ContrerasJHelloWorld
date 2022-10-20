@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jovan\\GitHub\\JContrerasHelloWorld\\JContrerasHelloWorld.csproj": {}
+    "/Users/drewnilsson/Downloads/JContrerasHelloWorld/JContrerasHelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jovan\\GitHub\\JContrerasHelloWorld\\JContrerasHelloWorld.csproj": {
+    "/Users/drewnilsson/Downloads/JContrerasHelloWorld/JContrerasHelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jovan\\GitHub\\JContrerasHelloWorld\\JContrerasHelloWorld.csproj",
+        "projectUniqueName": "/Users/drewnilsson/Downloads/JContrerasHelloWorld/JContrerasHelloWorld.csproj",
         "projectName": "JContrerasHelloWorld",
-        "projectPath": "C:\\Users\\Jovan\\GitHub\\JContrerasHelloWorld\\JContrerasHelloWorld.csproj",
-        "packagesPath": "C:\\Users\\Jovan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jovan\\GitHub\\JContrerasHelloWorld\\obj\\",
+        "projectPath": "/Users/drewnilsson/Downloads/JContrerasHelloWorld/JContrerasHelloWorld.csproj",
+        "packagesPath": "/Users/drewnilsson/.nuget/packages/",
+        "outputPath": "/Users/drewnilsson/Downloads/JContrerasHelloWorld/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Jovan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/drewnilsson/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -43,7 +43,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -52,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
         }
       }
     }
