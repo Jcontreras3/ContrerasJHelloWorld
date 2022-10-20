@@ -7,20 +7,21 @@ while (playAgain == "yes")
     Console.WriteLine("Enter your name to get a response!");
 
     bool isWord = true;
-    string name = Console.ReadLine();
+   
     while (isWord)
     {
+         string name = Console.ReadLine();
+        
         bool str = name.All(Char.IsLetter);
-        if (!str)
+        if (!str || string.IsNullOrEmpty(name))
         {
             Console.WriteLine("Please enter in your name no numbers");
             isWord = true;
-            break;
         }
         else
         {
             Console.WriteLine($"Hello {name} how are you");
-            break;
+            isWord = false;
         }
     }
 
