@@ -17,6 +17,7 @@ while (playAgain == "yes")
         {
             Console.WriteLine("Please enter in your name no numbers");
             isWord = true;
+            break;
         }
         else
         {
